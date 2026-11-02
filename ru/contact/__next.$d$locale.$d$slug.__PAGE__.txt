@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:"/warden-site/_next/static/chunks/2thmcy_qihc52.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[27943,["$2"],"default"]
+a:"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js"
+b:"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js"
+c:I[23468,["$a","$b"],"PublicHeader"]
+d:"/warden-site/_next/static/chunks/179tc7543sldm.js"
+e:"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js"
+f:I[41383,["$a","$b","$d","$e"],"default"]
+10:"/warden-site/_next/static/chunks/0jvnbo5bmuzzk.js"
+11:I[2996,["$a","$b","$10","$e"],"default"]
+12:I[23468,["$a","$b"],"PublicFooter"]
+17:"/warden-site/_next/static/chunks/1xb552u7hg1th.js"
+18:I[22016,["$a","$b","$17"],""]
+1c:"ViewportBoundary"
+1d:I[97367,["$2"],"$1c"]
+1e:"MetadataBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"$Sreact.suspense"
+21:I[27201,["$2"],"IconMark"]
+:HL["/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","style"]
+7:X
+7:C
+8:X
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"container public-page","children":[["$","div",null,{"className":"page-breadcrumb","children":[["$","$L18",null,{"href":"/ru","children":"WARDEN"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"КОНТАКТЫ"}]]}],["$","header",null,{"className":"page-heading","children":[["$","p",null,{"className":"micro","children":[["$","span",null,{"className":"accent-dot"}],"КОНТАКТЫ"]}],["$","h1",null,{"children":"Публичные каналы готовятся."}],["$","p",null,{"children":"Подтверждённые контакты поддержки будут опубликованы перед запуском. Эта страница не собирает сообщения и персональные данные."}]]}],false,false,["$","div",null,{"className":"contact-channels","children":[["$","div",null,{"className":"channel-grid","children":[["$","article","support",{"className":"channel-card","children":[["$","div",null,{"className":"channel-head","children":[["$","span",null,{"className":"micro","children":"SUPPORT"}],["$","span",null,{"className":"ui-badge ui-badge--warning","children":[["$","span",null,{"className":"ui-badge-dot","aria-hidden":"true"}],"не опубликован"]}]]}],["$","h2",null,{"children":"Поддержка"}],["$","p",null,{"children":"Появится после запуска защищённых обращений (tickets)."}],["$","span",null,{"className":"channel-placeholder","aria-hidden":"true","children":"— — — — — —"}]]}],["$","article","security",{"className":"channel-card","children":[["$","div",null,{"className":"channel-head","children":[["$","span",null,{"className":"micro","children":"SECURITY"}],["$","span",null,{"className":"ui-badge ui-badge--warning","children":[["$","span",null,{"className":"ui-badge-dot","aria-hidden":"true"}],"не опубликован"]}]]}],["$","h2",null,{"children":"Безопасность"}],["$","p",null,{"children":"Канал для уязвимостей и инцидентов будет опубликован перед запуском."}],["$","span",null,{"className":"channel-placeholder","aria-hidden":"true","children":"— — — — — —"}]]}],["$","article","press",{"className":"channel-card","children":[["$","div",null,{"className":"channel-head","children":[["$","span",null,{"className":"micro","children":"PRESS"}],["$","span",null,{"className":"ui-badge ui-badge--warning","children":[["$","span",null,{"className":"ui-badge-dot","aria-hidden":"true"}],"не опубликован"]}]]}],["$","h2",null,{"children":"Пресса"}],["$","p",null,{"children":"Публичные медиа-контакты требуют подтверждения Owner."}],["$","span",null,{"className":"channel-placeholder","aria-hidden":"true","children":"— — — — — —"}]]}]]}],["$","aside",null,{"className":"ui-notice","children":[["$","span",null,{"className":"ui-notice-symbol","aria-hidden":"true","children":"↗"}],["$","div",null,{"children":[["$","h2",null,{"children":"Проверяйте каналы"}],["$","div",null,{"className":"ui-notice-copy","children":["$","p",null,{"children":"Адреса поддержки публикуются только на этом домене и подтверждаются Owner. Если вам сообщили «контакт WARDEN» в мессенджере или соцсети — это не канал платформы."}]}]]}]]}]]}],false,false,["$","nav",null,{"className":"page-related","aria-label":"Связанные страницы","children":[["$","$L18",null,{"href":"/ru","className":"text-link","children":["← ","На главную"]}],["$","$L18",null,{"href":"/ru/help","className":"text-link","children":["Центр помощи"," ↗"]}]]}]]}],["$L19"],"$L1a"]}],"p":"$@1b","v":null,"s":"$8"}}]]
+14:[["children",{"s":{"n":"slug","t":"d","k":"contact","s":["access-denied","deactivated","maintenance","suspended"]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$7","s":"$8"},"c":"$Q16"}]]
+9:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","precedence":"next"}],["$","script","script-0",{"src":"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip","children":"К содержимому"}],["$","$Lc",null,{"locale":"ru"}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$f","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/warden-site/_next/static/chunks/179tc7543sldm.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js","async":true}]],"template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{"locale":"ru"}]]}]}]]}],"p":"$@13","v":null,"s":"$8"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[]]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"КОНТАКТЫ — WARDEN"}],["$","meta","1",{"name":"description","content":"Подтверждённые контакты поддержки будут опубликованы перед запуском. Эта страница не собирает сообщения и персональные данные."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"КОНТАКТЫ — WARDEN"}],["$","meta","4",{"property":"og:description","content":"Подтверждённые контакты поддержки будут опубликованы перед запуском. Эта страница не собирает сообщения и персональные данные."}],["$","meta","5",{"property":"og:site_name","content":"WARDEN"}],["$","meta","6",{"property":"og:locale","content":"ru_RU"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"КОНТАКТЫ — WARDEN"}],["$","meta","10",{"name":"twitter:description","content":"Подтверждённые контакты поддержки будут опубликованы перед запуском. Эта страница не собирает сообщения и персональные данные."}],["$","link","11",{"rel":"icon","href":"/warden-site/favicon.svg","type":"image/svg+xml"}],["$","$L21","12",{}]]}]}],null]}],null]}],"p":"$@22","v":null,"s":"$8"}},"a":"$@23","u":"$@24","b":"Q-p7qHEkqSRFylG_e6y80"}
+25:I[97367,["$2"],"OutletBoundary"]
+19:["$","script","script-0",{"src":"/warden-site/_next/static/chunks/1xb552u7hg1th.js","async":true}]
+1a:["$","$L25",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+8:300
+26:null
+24:true
+8:C
+23:0
+15:"$undefined"
+13:"$undefined"
+6:"$undefined"
+22:"$undefined"
+1b:"$undefined"

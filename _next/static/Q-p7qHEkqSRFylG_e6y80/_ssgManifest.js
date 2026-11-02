@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[locale]","\u002F[locale]\u002F[slug]","\u002F[locale]\u002Faccess-denied","\u002F[locale]\u002Fdeactivated","\u002F[locale]\u002Fmaintenance","\u002F[locale]\u002Fsuspended"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

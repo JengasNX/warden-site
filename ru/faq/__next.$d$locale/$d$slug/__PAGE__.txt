@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:"/warden-site/_next/static/chunks/2thmcy_qihc52.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[27943,["$2"],"default"]
+a:"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js"
+b:"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js"
+c:I[23468,["$a","$b"],"PublicHeader"]
+d:"/warden-site/_next/static/chunks/179tc7543sldm.js"
+e:"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js"
+f:I[41383,["$a","$b","$d","$e"],"default"]
+10:"/warden-site/_next/static/chunks/0jvnbo5bmuzzk.js"
+11:I[2996,["$a","$b","$10","$e"],"default"]
+12:I[23468,["$a","$b"],"PublicFooter"]
+17:"/warden-site/_next/static/chunks/1xb552u7hg1th.js"
+18:I[22016,["$a","$b","$17"],""]
+19:I[94864,["$a","$b","$17"],"HelpSearch"]
+1a:I[97367,["$2"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+22:I[27201,["$2"],"IconMark"]
+:HL["/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","style"]
+7:X
+7:C
+8:X
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"container public-page","children":[["$","div",null,{"className":"page-breadcrumb","children":[["$","$L18",null,{"href":"/ru","children":"WARDEN"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"FAQ"}]]}],["$","header",null,{"className":"page-heading","children":[["$","p",null,{"className":"micro","children":[["$","span",null,{"className":"accent-dot"}],"FAQ"]}],["$","h1",null,{"children":"Частые вопросы."}],["$","p",null,{"children":"Самое важное о репутации, гарантах, приватности и запуске WARDEN."}]]}],false,false,["$","$L19",null,{"locale":"ru"}],false,false,["$","nav",null,{"className":"page-related","aria-label":"Связанные страницы","children":[["$","$L18",null,{"href":"/ru","className":"text-link","children":["← ","На главную"]}],["$","$L18",null,{"href":"/ru/help","className":"text-link","children":["Центр помощи"," ↗"]}]]}]]}],[["$","script","script-0",{"src":"/warden-site/_next/static/chunks/1xb552u7hg1th.js","async":true}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":"$@1d","v":null,"s":"$8"}}]]
+14:[["children",{"s":{"n":"slug","t":"d","k":"faq","s":["access-denied","deactivated","maintenance","suspended"]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$7","s":"$8"},"c":"$Q16"}]]
+9:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","precedence":"next"}],["$","script","script-0",{"src":"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip","children":"К содержимому"}],["$","$Lc",null,{"locale":"ru"}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$f","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/warden-site/_next/static/chunks/179tc7543sldm.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js","async":true}]],"template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{"locale":"ru"}]]}]}]]}],"p":"$@13","v":null,"s":"$8"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[]]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"FAQ — WARDEN"}],["$","meta","1",{"name":"description","content":"Самое важное о репутации, гарантах, приватности и запуске WARDEN."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"FAQ — WARDEN"}],["$","meta","4",{"property":"og:description","content":"Самое важное о репутации, гарантах, приватности и запуске WARDEN."}],["$","meta","5",{"property":"og:site_name","content":"WARDEN"}],["$","meta","6",{"property":"og:locale","content":"ru_RU"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"FAQ — WARDEN"}],["$","meta","10",{"name":"twitter:description","content":"Самое важное о репутации, гарантах, приватности и запуске WARDEN."}],["$","link","11",{"rel":"icon","href":"/warden-site/favicon.svg","type":"image/svg+xml"}],["$","$L22","12",{}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$8"}},"a":"$@24","u":"$@25","b":"Q-p7qHEkqSRFylG_e6y80"}
+1c:null
+8:300
+25:true
+8:C
+24:0
+15:"$undefined"
+13:"$undefined"
+6:"$undefined"
+23:"$undefined"
+1d:"$undefined"

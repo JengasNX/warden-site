@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/warden-site/_next/static/chunks/2thmcy_qihc52.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[27943,["$2"],"default"]
+c:I[97367,["$2"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2"],"$12"]
+15:"/warden-site/_next/static/chunks/1xsuhgebi1q1r.js"
+16:I[31823,["$15"],"default"]
+:HL["/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","style"]
+6:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lb",null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"maintenance","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Qa"}]]
+7:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js","async":true,"nonce":"$undefined"}]],"$L8"]}],"p":false,"v":null},"c":"$Q9"}]]
+0:{"P":null,"c":["","ru","maintenance",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L5",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Q-p7qHEkqSRFylG_e6y80"}
+17:"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js"
+18:"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js"
+19:I[23468,["$17","$18"],"PublicHeader"]
+1a:"/warden-site/_next/static/chunks/179tc7543sldm.js"
+1b:"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js"
+1c:I[41383,["$17","$18","$1a","$1b"],"default"]
+1d:"/warden-site/_next/static/chunks/0jvnbo5bmuzzk.js"
+1e:I[2996,["$17","$18","$1d","$1b"],"default"]
+1f:I[23468,["$17","$18"],"PublicFooter"]
+20:I[22016,["$17","$18"],""]
+6:C
+8:["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip","children":"К содержимому"}],["$","$L19",null,{"locale":"ru"}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$1c","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/warden-site/_next/static/chunks/179tc7543sldm.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js","async":true,"nonce":"$undefined"}]],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L1e",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L1f",null,{"locale":"ru"}]]}]}]
+b:["$","main",null,{"className":"system-state container","children":[["$","p",null,{"className":"micro system-code","children":"503"}],["$","h1",null,{"children":"Технические работы"}],["$","p",null,{"children":"Сейчас активных работ нет. Эта страница откроется автоматически во время планового обслуживания: база данных, миграции и обновления."}],["$","div",null,{"className":"system-actions","children":[["$","$L20",null,{"className":"ui-button ui-button--primary","href":"/ru","children":["На главную",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}],["$","$L20",null,{"className":"text-link","href":"/ru/status","children":["Статус разработки",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[27201,["$2"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"WARDEN — 503"}],["$","meta","1",{"name":"description","content":"DIGITAL TRUST & ANTI-SCAM PLATFORM"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"WARDEN — 503"}],["$","meta","4",{"property":"og:description","content":"DIGITAL TRUST & ANTI-SCAM PLATFORM"}],["$","meta","5",{"property":"og:site_name","content":"WARDEN"}],["$","meta","6",{"property":"og:locale","content":"ru_RU"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"WARDEN — 503"}],["$","meta","10",{"name":"twitter:description","content":"DIGITAL TRUST & ANTI-SCAM PLATFORM"}],["$","link","11",{"rel":"icon","href":"/warden-site/favicon.svg","type":"image/svg+xml"}],["$","$L21","12",{}]]

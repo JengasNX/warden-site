@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:"/warden-site/_next/static/chunks/2thmcy_qihc52.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[27943,["$2"],"default"]
+a:"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js"
+b:"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js"
+c:I[23468,["$a","$b"],"PublicHeader"]
+d:"/warden-site/_next/static/chunks/179tc7543sldm.js"
+e:"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js"
+f:I[41383,["$a","$b","$d","$e"],"default"]
+10:"/warden-site/_next/static/chunks/0jvnbo5bmuzzk.js"
+11:I[2996,["$a","$b","$10","$e"],"default"]
+12:I[23468,["$a","$b"],"PublicFooter"]
+17:"/warden-site/_next/static/chunks/1xb552u7hg1th.js"
+18:I[22016,["$a","$b","$17"],""]
+1e:"ViewportBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+22:"$Sreact.suspense"
+23:I[27201,["$2"],"IconMark"]
+:HL["/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","style"]
+7:X
+7:C
+8:X
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"container public-page","children":[["$","div",null,{"className":"page-breadcrumb","children":[["$","$L18",null,{"href":"/ru","children":"WARDEN"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"ПРИВАТНОСТЬ"}]]}],["$","header",null,{"className":"page-heading","children":[["$","p",null,{"className":"micro","children":[["$","span",null,{"className":"accent-dot"}],"ПРИВАТНОСТЬ"]}],["$","h1",null,{"children":"Приватность как конструкция, не обещание."}],["$","p",null,{"children":"Платформа проектируется с принципом минимизации данных. Полноценная политика конфиденциальности публикуется после юридической проверки."}]]}],false,false,["$","div",null,{"className":"document-layout","children":[["$","div",null,{"className":"document-banner","role":"note","children":[["$","span",null,{"className":"micro document-banner-tag","children":"ЧЕРНОВИК · НЕ ЮРИДИЧЕСКИ ОБЯЗАТЕЛЬНО"}],["$","span",null,{"className":"micro document-banner-tag document-banner-tag--warn","children":"ПРОВЕРКА НЕ ЗАВЕРШЕНА"}],["$","p",null,{"children":"Этот документ — рамка будущих правил. Обязательная редакция публикуется после проверки для реальной юрисдикции проекта."}]]}],["$","div",null,{"className":"document-body","children":[["$","nav",null,{"className":"document-toc","aria-label":"Содержание документа","children":[["$","p",null,{"className":"micro","children":"СОДЕРЖАНИЕ"}],["$","ol",null,{"children":[["$","li","Минимизация данных",{"children":["$","a",null,{"href":"#clause-1","children":[["$","span",null,{"className":"micro","children":"01"}],"Минимизация данных"]}]}],["$","li","Пока не собирается ничего",{"children":["$","a",null,{"href":"#clause-2","children":[["$","span",null,{"className":"micro","children":"02"}],"Пока не собирается ничего"]}]}],["$","li","Права на данные",{"children":["$","a",null,{"href":"#clause-3","children":[["$","span",null,{"className":"micro","children":"03"}],"Права на данные"]}]}]]}]]}],["$","div",null,{"className":"document-clauses","children":[["$","section","Минимизация данных",{"id":"clause-1","className":"document-clause","children":[["$","span",null,{"className":"document-clause-number micro","children":"01"}],["$","div",null,{"children":[["$","h2",null,{"children":"Минимизация данных"}],["$","p",null,{"children":"Собирается только необходимое для работы аккаунтов, безопасности и понятной работы функций. Данные не передаются третьим сторонам без явного основания и согласия там, где оно обязательно."}]]}]]}],["$","section","Пока не собирается ничего",{"id":"clause-2","className":"document-clause","children":[["$","span",null,{"className":"document-clause-number micro","children":"02"}],["$","div",null,{"children":[["$","h2",null,{"children":"Пока не собирается ничего"}],["$","p",null,{"children":"Регистрации и бизнес-функции не активированы. Даже когда они появятся, состав обязательных к сбору данных будет описан до реализации, а не после."}]]}]]}],["$","section","Права на данные",{"id":"clause-3","className":"document-clause","children":[["$","span",null,{"className":"document-clause-number micro","children":"03"}],"$L19"]}]]}]]}]]}],false,false,"$L1a"]}],["$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$8"}}]]
+14:[["children",{"s":{"n":"slug","t":"d","k":"privacy","s":["access-denied","deactivated","maintenance","suspended"]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$7","s":"$8"},"c":"$Q16"}]]
+9:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","precedence":"next"}],["$","script","script-0",{"src":"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip","children":"К содержимому"}],["$","$Lc",null,{"locale":"ru"}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$f","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/warden-site/_next/static/chunks/179tc7543sldm.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js","async":true}]],"template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{"locale":"ru"}]]}]}]]}],"p":"$@13","v":null,"s":"$8"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[]]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ПРИВАТНОСТЬ — WARDEN"}],["$","meta","1",{"name":"description","content":"Платформа проектируется с принципом минимизации данных. Полноценная политика конфиденциальности публикуется после юридической проверки."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"ПРИВАТНОСТЬ — WARDEN"}],["$","meta","4",{"property":"og:description","content":"Платформа проектируется с принципом минимизации данных. Полноценная политика конфиденциальности публикуется после юридической проверки."}],["$","meta","5",{"property":"og:site_name","content":"WARDEN"}],["$","meta","6",{"property":"og:locale","content":"ru_RU"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"ПРИВАТНОСТЬ — WARDEN"}],["$","meta","10",{"name":"twitter:description","content":"Платформа проектируется с принципом минимизации данных. Полноценная политика конфиденциальности публикуется после юридической проверки."}],["$","link","11",{"rel":"icon","href":"/warden-site/favicon.svg","type":"image/svg+xml"}],["$","$L23","12",{}]]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$8"}},"a":"$@25","u":"$@26","b":"Q-p7qHEkqSRFylG_e6y80"}
+27:I[97367,["$2"],"OutletBoundary"]
+19:["$","div",null,{"children":[["$","h2",null,{"children":"Права на данные"}],["$","p",null,{"children":"Планируются экспорт данных, удаление аккаунта, история согласий и версионирование политики с понятными сроками хранения — до запуска публичной функциональности."}]]}]
+1a:["$","nav",null,{"className":"page-related","aria-label":"Связанные страницы","children":[["$","$L18",null,{"href":"/ru","className":"text-link","children":["← ","На главную"]}],["$","$L18",null,{"href":"/ru/help","className":"text-link","children":["Центр помощи"," ↗"]}]]}]
+1b:["$","script","script-0",{"src":"/warden-site/_next/static/chunks/1xb552u7hg1th.js","async":true}]
+1c:["$","$L27",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+8:300
+28:null
+26:true
+8:C
+25:0
+15:"$undefined"
+13:"$undefined"
+6:"$undefined"
+24:"$undefined"
+1d:"$undefined"

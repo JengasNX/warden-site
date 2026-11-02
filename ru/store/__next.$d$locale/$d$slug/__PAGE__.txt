@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:"/warden-site/_next/static/chunks/2thmcy_qihc52.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[27943,["$2"],"default"]
+a:"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js"
+b:"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js"
+c:I[23468,["$a","$b"],"PublicHeader"]
+d:"/warden-site/_next/static/chunks/179tc7543sldm.js"
+e:"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js"
+f:I[41383,["$a","$b","$d","$e"],"default"]
+10:"/warden-site/_next/static/chunks/0jvnbo5bmuzzk.js"
+11:I[2996,["$a","$b","$10","$e"],"default"]
+12:I[23468,["$a","$b"],"PublicFooter"]
+17:"/warden-site/_next/static/chunks/1xb552u7hg1th.js"
+18:I[22016,["$a","$b","$17"],""]
+1d:"ViewportBoundary"
+1e:I[97367,["$2"],"$1d"]
+1f:"MetadataBoundary"
+20:I[97367,["$2"],"$1f"]
+21:"$Sreact.suspense"
+22:I[27201,["$2"],"IconMark"]
+:HL["/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","style"]
+7:X
+7:C
+8:X
+16:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"container public-page","children":[["$","div",null,{"className":"page-breadcrumb","children":[["$","$L18",null,{"href":"/ru","children":"WARDEN"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"WARDEN STORE"}]]}],["$","header",null,{"className":"page-heading","children":[["$","p",null,{"className":"micro","children":[["$","span",null,{"className":"accent-dot"}],"WARDEN STORE"]}],["$","h1",null,{"children":"Магазин откроется позже."}],["$","p",null,{"children":"Продажи отключены. Продукты, привилегии и промокоды появятся после реализации магазина, проверки оплаты и утверждения условий."}]]}],false,["$","div",null,{"className":"page-stage","children":["$","span",null,{"className":"ui-badge ui-badge--warning","children":[["$","span",null,{"className":"ui-badge-dot","aria-hidden":"true"}],"До запуска"]}]}],["$","div",null,{"className":"store-shelves","children":[["$","div",null,{"className":"store-shelf","children":[["$","div",null,{"className":"store-shelf-head","children":[["$","span",null,{"className":"micro","children":"КАТЕГОРИИ"}],["$","span",null,{"className":"ui-badge ui-badge--warning","children":[["$","span",null,{"className":"ui-badge-dot","aria-hidden":"true"}],"продажи отключены"]}]]}],["$","div",null,{"className":"store-slots","children":[["$","article","products",{"className":"store-slot","children":[["$","span",null,{"className":"store-slot-mark","aria-hidden":"true","children":"◻"}],["$","h2",null,{"children":"Продукты"}],["$","p",null,{"children":"Оформление и кастомизация профиля."}],["$","span",null,{"className":"micro store-slot-price","children":["—"," ","цена не утверждена"]}]]}],["$","article","privileges",{"className":"store-slot","children":[["$","span",null,{"className":"store-slot-mark","aria-hidden":"true","children":"◻"}],["$","h2",null,{"children":"Привилегии"}],["$","p",null,{"children":"Удобства, не связанные с доверием."}],["$","span",null,{"className":"micro store-slot-price","children":["—"," ","цена не утверждена"]}]]}],["$","article","promo",{"className":"store-slot","children":[["$","span",null,{"className":"store-slot-mark","aria-hidden":"true","children":"◻"}],["$","h2",null,{"children":"Промокоды"}],["$","p",null,{"children":"Публикуются только подтверждённым Owner."}],["$","span",null,{"className":"micro store-slot-price","children":["—"," ","цена не утверждена"]}]]}]]}],["$","p",null,{"className":"micro store-shelf-note","children":"НЕТ ТОВАРОВ · НЕТ КОРЗИНЫ · НЕТ ФОРМЫ ОПЛАТЫ · PREMIUM И ПОКУПКИ НЕ ВЛИЯЮТ НА ДОВЕРИЕ"}]]}],["$","aside",null,{"className":"ui-notice","children":[["$","span",null,{"className":"ui-notice-symbol","aria-hidden":"true","children":"↗"}],["$","div",null,{"children":[["$","h2",null,{"children":"Платежи требуют проверки"}],["$","div",null,{"className":"ui-notice-copy","children":["$","p",null,{"children":"До активации необходимо подтвердить поддержку валют и документацию провайдера, утвердить цены и проверить юридические условия. Форма оплаты на этой странице появится только после этого."}]}]]}]]}]]}],false,false,["$","nav",null,{"className":"page-related","aria-label":"Связанные страницы","children":[["$","$L18",null,{"href":"/ru","className":"text-link","children":["← ","На главную"]}],"$L19"]}]]}],["$L1a"],"$L1b"]}],"p":"$@1c","v":null,"s":"$8"}}]]
+14:[["children",{"s":{"n":"slug","t":"d","k":"store","s":["access-denied","deactivated","maintenance","suspended"]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$7","s":"$8"},"c":"$Q16"}]]
+9:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":[]},"h":112,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/warden-site/_next/static/chunks/2q8n9ho49rwr8.css","precedence":"next"}],["$","script","script-0",{"src":"/warden-site/_next/static/chunks/3hg9-2c1iwtva.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/3_0dl-zcwiosa.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip","children":"К содержимому"}],["$","$Lc",null,{"locale":"ru"}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$f","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/warden-site/_next/static/chunks/179tc7543sldm.js","async":true}],["$","script","script-1",{"src":"/warden-site/_next/static/chunks/0za4l_rpt5-ly.js","async":true}]],"template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{"locale":"ru"}]]}]}]]}],"p":"$@13","v":null,"s":"$8"},"c":"$Q14"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L5",null,{}],[]]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"WARDEN STORE — WARDEN"}],["$","meta","1",{"name":"description","content":"Продажи отключены. Продукты, привилегии и промокоды появятся после реализации магазина, проверки оплаты и утверждения условий."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"WARDEN STORE — WARDEN"}],["$","meta","4",{"property":"og:description","content":"Продажи отключены. Продукты, привилегии и промокоды появятся после реализации магазина, проверки оплаты и утверждения условий."}],["$","meta","5",{"property":"og:site_name","content":"WARDEN"}],["$","meta","6",{"property":"og:locale","content":"ru_RU"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"WARDEN STORE — WARDEN"}],["$","meta","10",{"name":"twitter:description","content":"Продажи отключены. Продукты, привилегии и промокоды появятся после реализации магазина, проверки оплаты и утверждения условий."}],["$","link","11",{"rel":"icon","href":"/warden-site/favicon.svg","type":"image/svg+xml"}],["$","$L22","12",{}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$8"}},"a":"$@24","u":"$@25","b":"Q-p7qHEkqSRFylG_e6y80"}
+26:I[97367,["$2"],"OutletBoundary"]
+19:["$","$L18",null,{"href":"/ru/help","className":"text-link","children":["Центр помощи"," ↗"]}]
+1a:["$","script","script-0",{"src":"/warden-site/_next/static/chunks/1xb552u7hg1th.js","async":true}]
+1b:["$","$L26",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+8:300
+27:null
+25:true
+8:C
+24:0
+15:"$undefined"
+13:"$undefined"
+6:"$undefined"
+23:"$undefined"
+1c:"$undefined"
